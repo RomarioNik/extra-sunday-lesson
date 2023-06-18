@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/extra-sunday-lesson/static/css/main.7acaea2f.css",
-    "main.js": "/extra-sunday-lesson/static/js/main.07d3183d.js",
+    "main.js": "/extra-sunday-lesson/static/js/main.637d3c2e.js",
     "index.html": "/extra-sunday-lesson/index.html",
     "main.7acaea2f.css.map": "/extra-sunday-lesson/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/extra-sunday-lesson/static/js/main.07d3183d.js.map"
+    "main.637d3c2e.js.map": "/extra-sunday-lesson/static/js/main.637d3c2e.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.637d3c2e.js"
   ]
 }
